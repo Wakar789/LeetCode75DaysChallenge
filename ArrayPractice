@@ -1,0 +1,38 @@
+package ArraysRelatedProblem;
+
+public class ArraysTheoryAndConcept {
+	
+	//What is Array?
+	//Array is a collection of datatype
+	//Datatype can be Premitive, non Premitive and Object anything
+	//element should be of similar datatype so we can say that Array is the collection of similar datatype.
+	
+	//Syntax:
+	
+	//DataType[] VariableName = new DataType[size];  if you don't mention the size it will throw error.
+	
+	//DataType[] VarableName = {10,20,30,40};
+	
+	int[] arr = new int[5];
+	// arr is reference variable ---> this happened during compile time
+	//new int[5] =>creating object in heap memory --->this happened during run time : Dynamic Memory Allocation
+	
+	//In stack memory all the function call and reference memory will go
+	
+	//JVM manages the memory management
+	
+	//Arrays Object are stored in Heap
+	//Heap Object are not continuous
+	//Dynamic Memory Allocation
+	//Hence May not be continuous : Depends on JVM
+	
+	//new is used to create a Object
+	
+	
+	
+	
+	 
+	
+	
+
+}
